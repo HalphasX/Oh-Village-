@@ -1,5 +1,6 @@
-# Orbital-Project
+# Oh, Village!
 
+## An Orbital Project 
 **Proposed level of achievement** : Apollo 11
 
 ## Motivation
