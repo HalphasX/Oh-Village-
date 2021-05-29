@@ -45,9 +45,9 @@ These following tech stacks would be used in our project :
 
 
 ## Developmental Plan
-<img width="500" alt="Oh!Village_Developmental_Plan (1)" src="https://user-images.githubusercontent.com/70026153/120075450-e22a7d80-c0d3-11eb-9f5b-437349296226.png">
+<img width="600" alt="Oh!Village_Developmental_Plan (1)" src="https://user-images.githubusercontent.com/70026153/120075450-e22a7d80-c0d3-11eb-9f5b-437349296226.png">
 
 
 ## Project Log
-<img width="500" alt="Oh!Village_Project_Log (1)" src="https://user-images.githubusercontent.com/70026153/120075461-ec4c7c00-c0d3-11eb-87ca-d6262c66b46c.png">
+<img width="600" alt="Oh!Village_Project_Log (1)" src="https://user-images.githubusercontent.com/70026153/120075461-ec4c7c00-c0d3-11eb-87ca-d6262c66b46c.png">
 
