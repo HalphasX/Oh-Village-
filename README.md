@@ -51,3 +51,7 @@ These following tech stacks would be used in our project :
 ## Project Log
 <img width="600" alt="Oh!Village_Project_Log (1)" src="https://user-images.githubusercontent.com/70026153/120075461-ec4c7c00-c0d3-11eb-87ca-d6262c66b46c.png">
 
+| Total Hours | Orbitee 1 | Orbitee 2 |
+| --- | --- | --- |
+| 79 | 39.5 | 39.5 |
+
