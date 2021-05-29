@@ -46,11 +46,400 @@ These following tech stacks would be used in our project :
 
 
 ## Developmental Plan
-<img width="600" alt="Oh!Village_Developmental_Plan (1)" src="https://user-images.githubusercontent.com/70026153/120075450-e22a7d80-c0d3-11eb-9f5b-437349296226.png">
 
+<table>
+  <tr>
+    <td>
+      <b>No.</b>
+  </td>
+  <td>
+    <b>Task</b>
+  </td>
+  <td>
+    <b>Expected Completion Date</b>
+  </td>
+  <td>
+    <b>By Milestone</b>
+  </td>
+  </tr>
+  <tr>
+    <td>
+      1.
+    </td>
+    <td>
+      Creation of Main Menu : <br>
+      - Local Play <br>
+      - Online Play <br>
+      - Settings
+    </td>
+    <td>
+      05/06/21
+    </td>
+    <td>
+      2
+    </td>
+  </tr>
+  <tr>
+    <td>
+      2.
+    </td>
+    <td>
+      Creation of all playable cards : <br> 
+      - Character <br>
+      - Weapon <br>
+      - Spell
+    </td>
+    <td>
+      08/06/21
+    </td>
+    <td>
+      2
+    </td>
+  </tr>
+  <tr>
+    <td>
+      3.
+    </td>
+    <td>
+      Gameplay logic coding : <br>
+      - Cards' energy usage system <br>
+      - Players' energy and HP indicator <br>
+      - Turns and deployment of cards <br>
+      - End turn and win declaration
+    </td>
+    <td>
+      20/06/21
+    </td>
+    <td>
+      2
+    </td>
+  </tr>
+  <tr>
+    <td>
+      4.
+    </td>
+    <td>
+      Completion of local play : <br>
+      - Card dealing and deployment animation <br>
+      - Card balancing (readjustments of card stats) <br>
+      - Card stack finalizing
+    </td>
+    <td>
+      27/06/21
+    </td>
+    <td>
+      2
+    </td>
+  </tr>
+  <tr>
+    <td>
+      5.
+    </td>
+    <td>
+      Completion of gameplay animation : <br>
+      - Weapons, spells, and deployment of character cards
+    </td>
+    <td>
+      04/07/21
+    </td>
+    <td>
+      3
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      6.
+    </td>
+    <td>
+      Game design refining : <br>
+      - UI/UX smoothing <br>
+      - Adding background music (SFX) <br>
+      - Main menu refining
+    </td>
+    <td>
+      11/07/21
+    </td>
+    <td>
+      3
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      7.
+    </td>
+    <td>
+      Development of online play : <br>
+      - Multiple platform rescaling <br>
+      - Multiple platform play
+    </td>
+    <td>
+      24/07/21
+    </td>
+    <td>
+      3
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      8.
+    </td>
+    <td>
+      Game completion : <br>
+      - Beta testing <br>
+      - Card rebalancing <br>
+      - Energy system rebalancing <br>
+      - Bug fixing
+    </td>
+    <td>
+      26/07/21
+    </td>
+    <td>
+      3
+    </td>
+  </tr>
+  </table>
 
 ## Project Log
-<img width="600" alt="Oh!Village_Project_Log (1)" src="https://user-images.githubusercontent.com/70026153/120075461-ec4c7c00-c0d3-11eb-87ca-d6262c66b46c.png">
+<table>
+  <tr>
+    <td>
+      <b>No.</b>
+  </td>
+  <td>
+    <b>Task</b>
+  </td>
+    <td>
+      <b> Date </b>
+    </td>
+  <td>
+    <b>Orbitee 1 (hrs)</b>
+  </td>
+  <td>
+    <b>Orbitee 2 (hrs)</b>
+  </td>
+    <td>
+      <b> Remarks </b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      1.
+    </td>
+    <td>
+      Liftoff : Programme Overview
+    </td>
+    <td>
+      11/05/21
+    </td>
+    <td>
+      3
+    </td>
+    <td>
+      3
+    </td>
+    <td>
+      Read and reviewed on orbital programme overview slides and milestone samples.
+    </td>
+  </tr>
+    
+  <tr>
+    <td>
+      2.
+    </td>
+    <td>
+      Liftoff : Team meeting with advisor
+    </td>
+    <td>
+      12/05/21
+    </td>
+    <td>
+      0.5
+    </td>
+    <td>
+      0.5
+    </td>
+    <td>
+    - Discussed project idea and possible features extension with the advisor. <br>
+    - Discussed possible difficulties in feature implementation.
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      3.
+    </td>
+    <td>
+      Liftoff : Poster Creation
+    </td>
+    <td>
+      15/05/21 - 16/05/21
+    </td>
+    <td>
+      3
+    </td>
+    <td>
+      3
+    </td>
+    <td>
+      Created Oh, Village! poster for submission.
+    </td>
+  </tr>
+  
+  
+  <tr>
+    <td>
+      4.
+    </td>
+    <td>
+      Liftoff : Video Creation
+    </td>
+    <td>
+      17/05/21
+    </td>
+    <td>
+      3
+    </td>
+    <td>
+      3
+    </td>
+    <td>
+      Created Oh, Village! promotional video for submission.
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      5.
+    </td>
+    <td>
+      Team meeting : Gameplay idea discussion
+    </td>
+    <td>
+      21/05/21
+    </td>
+    <td>
+      3.5
+    </td>
+    <td>
+      3.5
+    </td>
+    <td>
+      - Discussed implementations of gameplay, turn-based systems, and energy system for the game. <br>
+      - Discussed possible in-game designs that could be included into the game.
+    </td>
+  </tr>
+  
+  
+  <tr>
+    <td>
+      6.
+    </td>
+    <td>
+      Discussion on cards to be implemented into the game
+    </td>
+    <td>
+      22/05/21 - 29/05/21
+    </td>
+    <td>
+      4
+    </td>
+    <td>
+      4
+    </td>
+    <td>
+      - Created cards for characters, weapons, and spells. <br>
+      - Decided the types and statistics (Att/Def/HP) for each cards.
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      7.
+    </td>
+    <td>
+      Unity Workshop
+    </td>
+    <td>
+      22/05/21
+    </td>
+    <td>
+      2
+    </td>
+    <td>
+      2
+    </td>
+    <td>
+      Attended Unity Workshop for the development of the game.
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      8.
+    </td>
+    <td>
+      Technical Consultation
+    </td>
+    <td>
+      22/05/21
+    </td>
+    <td>
+      0.5
+    </td>
+    <td>
+      0.5
+    </td>
+    <td>
+      Consulted with Angie about gameplay and recommended implementation of the game using Unity Game Engine.
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      9.
+    </td>
+    <td>
+      Team Meeting : Developmental Plan
+    </td>
+    <td>
+      29/05/21
+    </td>
+    <td>
+      4
+    </td>
+    <td>
+      4
+    </td>
+    <td>
+      Decided on the developmental plan of the project, including the timeline and target feature to be implemented in the project.
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
+      10.
+    </td>
+    <td>
+      Team Meeting : Implementation of Main Menu
+    </td>
+    <td>
+      30/05/21
+    </td>
+    <td>
+      8
+    </td>
+    <td>
+      8
+    </td>
+    <td>
+      - Developed features in main menu, which includes entrance screen and buttons in accordance to program flow. <br>
+      - Created documentations for the project, including ReadMe and Project Log.
+    </td>
+  </tr>
+  </table>
 
 | Total Hours | Orbitee 1 | Orbitee 2 |
 | --- | --- | --- |
