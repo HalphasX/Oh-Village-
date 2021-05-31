@@ -439,9 +439,31 @@ These following tech stacks would be used in our project :
       - Created documentations for the project, including ReadMe and Project Log.
     </td>
   </tr>
+  
+    <tr>
+    <td>
+      11.
+    </td>
+    <td>
+      Team Meeting : Finalization of Submission
+    </td>
+    <td>
+      31/05/21
+    </td>
+    <td>
+      3
+    </td>
+    <td>
+      3
+    </td>
+    <td>
+      - Refined errors in the submission file. <br> 
+      - Submit submission for Milestone 1. 
+    </td>
+  </tr>
   </table>
 
 | Total Hours | Orbitee 1 | Orbitee 2 |
 | --- | --- | --- |
-| 79 | 39.5 | 39.5 |
+| 67 | 33.5 | 33.5 |
 
