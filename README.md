@@ -440,7 +440,7 @@ These following tech stacks would be used in our project :
     </td>
   </tr>
   
-    <tr>
+  <tr>
     <td>
       11.
     </td>
